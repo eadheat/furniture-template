@@ -1,0 +1,28 @@
+#left-menu {
+  border-right: 1px solid #eeeeee; 
+  padding-top: 40px;
+}
+
+#left-menu #img-logo {
+  text-align: center;
+}
+
+#left-menu #img-logo img {
+    width: 100px;
+}
+
+#left-menu #list-menu {
+  margin-top: 20px;
+}
+
+#left-menu #list-menu ul {
+  list-style-type: none;
+  padding: 15px;
+}
+
+#left-menu #list-menu ul li {
+  border-bottom: 1px solid #eeeeee;
+  border-bottom-style: dashed;
+  text-align: center;
+  height: 30px;
+}
